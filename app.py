@@ -455,6 +455,11 @@ if analyze:
 st.markdown("""
 <div class="footer">
     <b>SmartHire</b> — AI-Powered Resume Screening System<br>
-    Built using Python • Streamlit • NLP • Machine Learning
+    Built using Python • Streamlit • NLP • Machine Learning<br><br>
+    Developed by <b>Karan Dev & Team</b><br>
+    <a href="https://github.com/KARAN-2317/SmartHire-Resume-Analyzer"
+       target="_blank">
+       View Project on GitHub
+    </a>
 </div>
 """, unsafe_allow_html=True)
